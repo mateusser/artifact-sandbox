@@ -1,6 +1,6 @@
 # artifact-sandbox
 
-> Sandobox for Valve's new game Artifact API
+> Sandbox for Valve's new game Artifact API
 
 #### Build Setup
 

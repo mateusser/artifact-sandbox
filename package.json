@@ -1,9 +1,9 @@
 {
   "name": "artifact-sandbox",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Mateus Seehagen Rodrigues",
-  "description": "Sandobox for Valve's new game Artifact API",
-  "license": null,
+  "description": "Sandbox for Valve's new game Artifact API",
+  "license": "MIT",
   "main": "./dist/electron/main.js",
   "scripts": {
     "build": "node .electron-vue/build.js && electron-builder",
